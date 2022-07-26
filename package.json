@@ -3,7 +3,7 @@
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
-  "homepage": "http://abcles.github.io/equations",
+  "homepage": "https://abcles.github.io/equations",
   "scripts": {
     "start": "webpack serve",
     "build:dev": "webpack --mode development --devtool inline-source-map",
