@@ -11,6 +11,8 @@ Example:
 
 **[See the app here!](https://abcles.github.io/1st_grade_equations/dist/)**
 
+... or copy/paste ✂️📋 this link `https://abcles.github.io/1st_grade_equations/dist/` in your favorite browser👍
+
 ## Prerequisites
 
 1. Are covered the plus and minus operations
