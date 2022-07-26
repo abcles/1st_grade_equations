@@ -10,7 +10,8 @@ Example:
 ## Deployment
 
 **[See the app here!](https://abcles.github.io/1st_grade_equations/dist/)**
-Or Copy/Paste ✂️📋 this link `https://abcles.github.io/1st_grade_equations/dist/` in your favorite browser
+
+... or copy/paste ✂️📋 this link `https://abcles.github.io/1st_grade_equations/dist/` in your favorite browser👍
 
 ## Prerequisites
 
