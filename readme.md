@@ -7,6 +7,10 @@ Example:
 
 => |**We bought 10 apples. How many were eaten if now we have only 2?**
 
+## Deployment
+
+**[See the app here!](https://abcles.github.io/1st_grade_equations/dist/)**
+
 ## Prerequisites
 
 1. Are covered the plus and minus operations
